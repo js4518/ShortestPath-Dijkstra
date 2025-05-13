@@ -1,0 +1,34 @@
+﻿  main.cpp
+  ofApp.cpp
+  ofxWinMenu.cpp
+  Info: Boost.Config is older than your compiler version - probably nothing bad will happen - but you may wish to look for an update Boost version.  Define BOOST_CONFIG_SUPPRESS_OUTDATED_MESSAGE to suppress this message.
+  Info: Boost.Config is older than your compiler version - probably nothing bad will happen - but you may wish to look for an update Boost version.  Define BOOST_CONFIG_SUPPRESS_OUTDATED_MESSAGE to suppress this message.
+c:\users\js451\desktop\of_v0.11.2_vs2017_release\apps\20211544\src\ofxwinmenu.cpp(124): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\js451\desktop\of_v0.11.2_vs2017_release\apps\20211544\src\ofxwinmenu.cpp(206): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\js451\desktop\of_v0.11.2_vs2017_release\libs\openframeworks\utils\ofutils.h : warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오. (소스 파일 컴파일 중 src\ofApp.cpp)
+c:\users\js451\desktop\of_v0.11.2_vs2017_release\libs\openframeworks\utils\ofutils.h : warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오. (소스 파일 컴파일 중 src\main.cpp)
+c:\users\js451\desktop\of_v0.11.2_vs2017_release\libs\openframeworks\math\ofvec3f.h : warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오. (소스 파일 컴파일 중 src\ofApp.cpp)
+c:\users\js451\desktop\of_v0.11.2_vs2017_release\libs\openframeworks\math\ofvec2f.h : warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오. (소스 파일 컴파일 중 src\ofApp.cpp)
+c:\users\js451\desktop\of_v0.11.2_vs2017_release\libs\openframeworks\math\ofvec3f.h : warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오. (소스 파일 컴파일 중 src\main.cpp)
+c:\users\js451\desktop\of_v0.11.2_vs2017_release\libs\openframeworks\math\ofvec2f.h : warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오. (소스 파일 컴파일 중 src\main.cpp)
+c:\users\js451\desktop\of_v0.11.2_vs2017_release\libs\openframeworks\math\ofmatrix4x4.h(326): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다. (소스 파일 컴파일 중 src\ofApp.cpp)
+c:\users\js451\desktop\of_v0.11.2_vs2017_release\libs\openframeworks\math\ofmatrix4x4.h(331): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다. (소스 파일 컴파일 중 src\ofApp.cpp)
+c:\users\js451\desktop\of_v0.11.2_vs2017_release\libs\openframeworks\math\ofmatrix4x4.h(912): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다. (소스 파일 컴파일 중 src\ofApp.cpp)
+c:\users\js451\desktop\of_v0.11.2_vs2017_release\libs\openframeworks\math\ofmatrix4x4.h(913): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다. (소스 파일 컴파일 중 src\ofApp.cpp)
+c:\users\js451\desktop\of_v0.11.2_vs2017_release\libs\openframeworks\math\ofmatrix4x4.h(914): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다. (소스 파일 컴파일 중 src\ofApp.cpp)
+c:\users\js451\desktop\of_v0.11.2_vs2017_release\libs\openframeworks\math\ofmatrix4x4.h(915): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다. (소스 파일 컴파일 중 src\ofApp.cpp)
+c:\users\js451\desktop\of_v0.11.2_vs2017_release\libs\openframeworks\math\ofmatrix4x4.h(326): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다. (소스 파일 컴파일 중 src\main.cpp)
+c:\users\js451\desktop\of_v0.11.2_vs2017_release\libs\openframeworks\math\ofmatrix4x4.h(331): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다. (소스 파일 컴파일 중 src\main.cpp)
+c:\users\js451\desktop\of_v0.11.2_vs2017_release\libs\openframeworks\math\ofmatrix4x4.h(912): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다. (소스 파일 컴파일 중 src\main.cpp)
+c:\users\js451\desktop\of_v0.11.2_vs2017_release\libs\openframeworks\math\ofmatrix4x4.h(913): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다. (소스 파일 컴파일 중 src\main.cpp)
+c:\users\js451\desktop\of_v0.11.2_vs2017_release\libs\openframeworks\math\ofmatrix4x4.h(914): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다. (소스 파일 컴파일 중 src\main.cpp)
+c:\users\js451\desktop\of_v0.11.2_vs2017_release\libs\openframeworks\math\ofmatrix4x4.h(915): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다. (소스 파일 컴파일 중 src\main.cpp)
+     bin\final_debug.lib 라이브러리 및 bin\final_debug.exp 개체를 생성하고 있습니다.
+  final.vcxproj -> C:\Users\js451\Desktop\of_v0.11.2_vs2017_release\apps\20211544\bin\final_debug.exe
+  
+  	                   2	C:\Users\js451\Desktop\of_v0.11.2_vs2017_release\libs\fmod\lib\vs\x64\
+  	  *추가 파일  		 6942208	C:\Users\js451\Desktop\of_v0.11.2_vs2017_release\apps\20211544\bin\FreeImage.dll
+  
+  	                   1	C:\Users\js451\Desktop\of_v0.11.2_vs2017_release\libs\FreeImage\lib\vs\x64\
+  	  *추가 파일  		 1826304	C:\Users\js451\Desktop\of_v0.11.2_vs2017_release\apps\20211544\bin\fmod.dll
+  	  *추가 파일  		 2041856	C:\Users\js451\Desktop\of_v0.11.2_vs2017_release\apps\20211544\bin\fmodL.dll
